@@ -1,5 +1,4 @@
 # CC_final_project
-```CC```
 ## Objective
 **Street view style transfer**
 1. Transfer the style of a street view photo to ancient style, and see how well it can reproduce the ancient street view.
